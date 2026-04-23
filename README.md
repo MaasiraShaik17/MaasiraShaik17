@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MaasiraShaik17
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me maasirashaik17@gmail.com
-- 😄 Pronouns: Maasira
-- ⚡ Fun fact: ...
+💡 Full Stack Developer | Java Enthusiast  
+⚡ Building projects with Java, Spring Boot, React, and MySQL  
+📈 Continuously learning, coding, and growing  
+🤝 Open to collaboration and job opportunities
 
 <!---
 MaasiraShaik17/MaasiraShaik17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
